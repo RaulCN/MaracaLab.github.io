@@ -24,7 +24,11 @@ permalink: /atividades/
     {% for post in site.tags[this_word] %}{% if post.title != null %}
     <div class="tag-item">
       <div class="tag-text">
-        <a class="tag-link" href="{{ root_url }}{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> | <small><span class="tag-date">{{ post.date | date_to_string }}</span></small>
+        <a class="tag-link" href="{{ root_url }}{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> | <small>						<div class="post-date">
+							<span>
+								<time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%d/%m/%Y'}}</time>
+							</span>
+						</div></small>
       </div>
     </div>
     {% endif %}{% endfor %}
