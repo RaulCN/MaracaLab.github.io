@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre
 image: 08.jpg
 permalink: /about/
 ---
