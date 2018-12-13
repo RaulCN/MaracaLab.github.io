@@ -21,4 +21,4 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 <center><img src="/img/02.jpg" alt="Avatar" style="width:400px"> </center>
 <center><h1>Raul Nascimento</h1></center>
 
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+Autodidata curioso ávido por aprender e ensinar, acredito que o conhecimento livre e bem intencionado é a chave pra um mundo mais justo, solidário, diverso e divertido!! 
